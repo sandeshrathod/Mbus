@@ -1,0 +1,7 @@
+{
+  "name": "Mbus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

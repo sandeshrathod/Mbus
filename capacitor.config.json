@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Mbus",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
